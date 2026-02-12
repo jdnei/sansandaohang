@@ -12,7 +12,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # 必须拉取完整历史才能推送到 Gitee
+          fetch-depth: 0
 
       - name: Update Date in README
         run: |
@@ -24,10 +24,10 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: 自动更新日期" && git push)
+          # 提交信息已更改为英文
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: Update date" && git push)
 
       - name: Force Push to Gitee
         run: |
-          # 使用你提供的 Gitee 地址进行同步
-          # 注意：这会以 GitHub 的内容为准，强制覆盖 Gitee
+          # 强制同步到 Gitee
           git push --force https://jdnei:${{ secrets.GITEE_TOKEN }}@gitee.com/jdnei/sansandaohang.git main
