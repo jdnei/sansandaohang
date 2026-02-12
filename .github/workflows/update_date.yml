@@ -1,0 +1,30 @@
+name: Daily Date Update
+
+on:
+  schedule:
+    # 每天北京时间上午 8 点运行一次 (UTC 时间 0:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许你手动点击运行测试
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Update Date in README
+        run: |
+          # 获取当前日期 (YYYY-MM-DD)
+          CURRENT_DATE=$(date +'%Y-%m-%d')
+          # 使用 sed 替换文件中的日期。假设你的日期格式是 "Update: 2024-01-01"
+          # 你可以根据实际标记来调整匹配规则
+          sed -i "s/Update: [0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}/Update: $CURRENT_DATE/g" README.md
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          # 只有在内容发生变化时才提交，避免报错
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto update date to $(date +'%Y-%m-%d')" && git push)
