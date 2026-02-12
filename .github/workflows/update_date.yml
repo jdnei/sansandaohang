@@ -17,6 +17,7 @@ jobs:
       - name: Update Date in README
         run: |
           CURRENT_DATE=$(date +'%Y年%-m月%-d日')
+          # 通用匹配格式：(xxxx年x月x日更新)
           sed -i "s/([0-9]\{4\}年[0-9]\{1,2\}月[0-9]\{1,2\}日更新)/($CURRENT_DATE更新)/g" README.md
 
       - name: Commit and Push to GitHub
@@ -24,10 +25,10 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
-          # 提交信息已更改为英文
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: Update date" && git push)
 
       - name: Force Push to Gitee
         run: |
-          # 强制同步到 Gitee
-          git push --force https://jdnei:${{ secrets.GITEE_TOKEN }}@gitee.com/jdnei/sansandaohang.git main
+          # 关键改动：使用 ${{ github.repository }} 自动获取当前“用户名/项目名”
+          # 只要你 Gitee 的路径和 GitHub 一致，这行代码就是全自动通用的
+          git push --force https://jdnei:${{ secrets.GITEE_TOKEN }}@gitee.com/${{ github.repository }}.git main
