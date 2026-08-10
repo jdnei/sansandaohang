@@ -11,7 +11,7 @@
 <td width="25%" valign="top">
 
 <h3 align="center">💰 性价比系列</h3>
-
+`便宜！真便宜！要求不高！`
 <strong>01. 魔戒机场</strong><br><br>
 最新官网地址：<a href="https://to.iix.im/mj10">mojie.co</a><br>
 ❌周期性套餐丨✅不限时套餐丨❌家宽<br>
@@ -73,10 +73,10 @@
 <td width="25%" valign="top">
 
 <h3 align="center">🏆 老牌系列</h3>
-
+<code>稳定！少操心！</code><br>
 <strong>01. XXX机场</strong><br><br>
 最新官网地址：<a href="#">xxx.com</a><br>
-✅周期性套餐丨✅长期运营丨✅流媒体<br>
+✅周期性套餐<br>丨✅长期运营<br>丨✅流媒体<br>
 优势：运营时间较长，线路和节点相对成熟。<br>
 ✅<a href="#">测评</a>
 
@@ -104,7 +104,7 @@
 <td width="25%" valign="top">
 
 <h3 align="center">✨ 特色系列</h3>
-
+`需要VPN还有特殊需求`
 <strong>01. XXX机场</strong><br><br>
 最新官网地址：<a href="#">xxx.com</a><br>
 ✅特色节点丨✅流媒体丨✅特殊服务<br>
