@@ -181,19 +181,28 @@
 ### 04. NIVA Network机场
 官网最新地址：[app.mizuku.net](https://to.iix.im/niva01)</br>
 ✅周期性套餐丨✅不限时套餐丨✅家宽</br>
-优势：用的不多，又有部分家宽需求，对速度要求不敏感的可选择</br>
+优势：用的不多，又有部分家宽需求，对速度要求不敏感的可备选</br>
 ✅[测评](https://github.com/jdnei/niva)
+
 
 ---
 
-### 03. 飞鸟云机场
+### 05. NianYun念云机场
+官网最新地址：[xnyun.wiki](https://to.iix.im/xny01)（中国大陆无法访问）</br>
+✅周期性套餐丨✅不限时套餐丨✅家宽</br>
+优势：对线路总体要求不高，但平时有各地家宽需求的用户，可做备选</br>
+✅[测评](https://github.com/jdnei/nianyun)
+
+---
+
+### 06. 飞鸟云机场
 官网最新地址：[fbweb03.flyingbird.la](https://fbweb03.flyingbird.la/auth/register?code=T7N16oUx)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅客户端</br>
 优势：只能客户端了，不会用FQ软件的推荐</br>
 ✅[测评](https://github.com/jdnei/flyingbird)</br>
 
 ---
-### 04. 星岛梦机场
+### 07. 星岛梦机场
 官网最新地址：[awasdfeqr.xdmttt4.click](https://to.iix.im/xmd03)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅客户端</br>
 优势：只能客户端了，不会用FQ软件的推荐</br>
