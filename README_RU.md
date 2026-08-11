@@ -154,7 +154,18 @@
 
 <a id="specialty"></a>
 ## ✨ 特色系列
-### 01. KittyNetwork机场
+
+
+
+### 01. Crush云机场
+官网最新地址：[crush91.cc](https://to.iix.im/cr01)</br>
+✅周期性套餐丨❌不限时套餐丨✅新疆可用丨✅专线丨✅Emby服务丨✅不限设备</br>
+优势：⚠️：只有带IPv6的用户才可以用。对速度要求不高，功能要求多的用户可购买</br>
+✅[测评](https://github.com/jdnei/crush)
+
+---
+
+### 02. KittyNetwork机场
 官网最新地址：[kitty.fo](https://to.iix.im/kn01)（中国大陆无法访问）</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅新疆可用</br>
 优势：提供中国新疆地区可用的节点</br>
@@ -162,7 +173,7 @@
 
 ---
 
-### 02. m78星云机场
+### 03. m78星云机场
 官网最新地址：[www.m78.pro](https://to.iix.im/xy03)（ 中国大陆无法访问 ）</br>
 ✅周期性套餐丨✅不限时套餐丨❌家宽丨✅Emby服务</br>
 优势：提供正常节点外，可以同时开通Emby观影账号，爱看电影的首选，省一大笔</br>
@@ -170,7 +181,7 @@
 
 ---
 
-### 03. YkkCloud机场
+### 04. YkkCloud机场
 官网最新地址：[panel.ykkk.best](https://to.iix.im/ykk01)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅Emby服务</br>
 优势：提供正常节点外，可以赠送Emby观影权益，爱看电影的备选</br>
@@ -178,7 +189,7 @@
 
 ---
 
-### 04. NIVA Network机场
+### 05. NIVA Network机场
 官网最新地址：[app.mizuku.net](https://to.iix.im/niva01)</br>
 ✅周期性套餐丨✅不限时套餐丨✅家宽</br>
 优势：用的不多，又有部分家宽需求，对速度要求不敏感的可备选</br>
@@ -187,7 +198,7 @@
 
 ---
 
-### 05. NianYun念云机场
+### 06. NianYun念云机场
 官网最新地址：[xnyun.wiki](https://to.iix.im/xny01)（中国大陆无法访问）</br>
 ✅周期性套餐丨✅不限时套餐丨✅家宽</br>
 优势：对线路总体要求不高，但平时有各地家宽需求的用户，可做备选</br>
@@ -195,14 +206,22 @@
 
 ---
 
-### 06. 飞鸟云机场
+### 07. SpeedCat闪电猫机场
+官网最新地址：[speedcat.la](https://to.iix.im/sc01)</br>
+✅周期性套餐丨❌不限时套餐丨✅家宽丨✅不限设备</br>
+优势：提供基础节点的同时，不限制连接设备数量，适合设备多，用量不大的</br>
+✅[测评](https://github.com/jdnei/speedcat)
+
+---
+
+### 08. 飞鸟云机场
 官网最新地址：[fbweb03.flyingbird.la](https://fbweb03.flyingbird.la/auth/register?code=T7N16oUx)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅客户端</br>
 优势：只能客户端了，不会用FQ软件的推荐</br>
 ✅[测评](https://github.com/jdnei/flyingbird)</br>
 
 ---
-### 07. 星岛梦机场
+### 09. 星岛梦机场
 官网最新地址：[awasdfeqr.xdmttt4.click](https://to.iix.im/xmd03)</br>
 ✅周期性套餐丨❌不限时套餐丨❌家宽丨✅客户端</br>
 优势：只能客户端了，不会用FQ软件的推荐</br>
