@@ -124,6 +124,16 @@
 优势：有专线，有冷门节点，不喜欢花云奶昔的plan B</br>
 ✅[测评](https://github.com/jdnei/ytoo)
 
+
+---
+
+
+### 19. 绿叶云专线机场
+官网最新地址：[linkcube.org](https://to.iix.im/ly02)</br>
+✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
+优势：用稍微便宜的价格，体验专线，三个套餐清晰无套路</br>
+✅[测评](https://github.com/jdnei/linkcube)
+
 ---
 
 ### 17. 花云机场
@@ -140,14 +150,7 @@
 优势：老牌专线，和花云一样，技术强，信得过，不差钱直接上</br>
 ✅[测评](https://github.com/jdnei/naixi)</br>
 
----
 
-
-### 19. 绿叶云专线机场
-官网最新地址：[linkcube.org](https://to.iix.im/ly02)</br>
-✅周期性套餐丨❌不限时套餐丨❌家宽丨✅专线</br>
-优势：用稍微便宜的价格，体验专线，三个套餐清晰无套路</br>
-✅[测评](https://github.com/jdnei/linkcube)
 
 <a id="specialty"></a>
 ## ✨ 特色系列
