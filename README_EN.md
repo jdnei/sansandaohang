@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jdnei/JiChangTuiJian/blob/main/JiChangTuiJian/4952094580234805logo.png" width="900" alt="JiChangTuiJian">
+  <img src="https://github.com/jdnei/JiChangTuiJian/blob/main/JiChangTuiJian/4203457093450logo.png" width="900" alt="JiChangTuiJian">
 </p>
 
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
