@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/jdnei/JiChangTuiJian/blob/main/JiChangTuiJian/4203457093450logo.png" width="900" alt="JiChangTuiJian">
-</p>
+
+[![Proton VPN 30天退款保障](https://github.com/jdnei/JiChangTuiJian/blob/main/JiChangTuiJian/934374237402logo.png?raw=ture)](https://go.iix.im/p01)
 
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
