@@ -1,12 +1,12 @@
-![status](https://dot.331024.xyz/dot/27.svg?type=cf)
-![status](https://dot.331024.xyz/dot/23.svg?type=http)
+![status](https://dot.331024.xyz/dot/27.svg?type=cf)</br>
+![status](https://dot.331024.xyz/dot/23.svg?type=http)</br>
 
 
 <!-- 吹雪 / Monitor ID 27 / TCP 443 / 黄色 -->
-![status](https://dot.331024.xyz/dot/27.svg?type=cf)
+状态：![status](https://dot.331024.xyz/dot/27.svg?type=cf)
 
 <!-- 98k / Monitor ID 23 / HTTP / 绿色 -->
-![status](https://dot.331024.xyz/dot/23.svg?type=http)
+状态：![status](https://dot.331024.xyz/dot/23.svg?type=http)
 
 
 Up        → 🟡
@@ -17,7 +17,7 @@ Up   → 🟢
 Down → 🔴
 
 ## 状态解释</br>
-`中国大陆网络环境访问中5小时内的状态`</br>
+`环境：中国大陆网络`🈴️`时间：小于5小时`</br>
 🟢 = 页面正常</br>
 🟡 = 端口正常 / Cloudflare 保护，网页状态未完全确认</br>
 🔴 = 无法连通</br>
